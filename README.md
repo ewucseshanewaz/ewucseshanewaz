@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ewucseshanewaz
+- 👋 Hi, I am Md Shanewaz Akib
 - 👀 I’m interested in software development & database management.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
